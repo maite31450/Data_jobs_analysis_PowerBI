@@ -1,8 +1,8 @@
 # Data_jobs_analysis_PowerBI
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maite31450/Data_jobs_analysis_PowerBI/blob/main/data_jobs.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/maite31450/Data_jobs_analysis_PowerBI/blob/main/data_jobs.png">
  <img alt="data jobs recruitment" src="data_jobs.png">
 </picture>
 
